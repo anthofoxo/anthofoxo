@@ -1,4 +1,4 @@
-🔭 I’m currently working on a 3D Game engine in C++17
+🔭 I’m currently working on a 3D Game engine in C++20 and writing an OpenGL tutorial series.
 JavaEngine | CppEngine
 ---------- | ---------
 ![JavaEngine.png <](JavaEngine.png) | ![CppEngine.png >](CppEngine.png)
